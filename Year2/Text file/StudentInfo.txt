@@ -1,0 +1,3 @@
+Seam chiminh	m	20	pp
+sear	m	16	bmc
+coca	m	12	mbc
